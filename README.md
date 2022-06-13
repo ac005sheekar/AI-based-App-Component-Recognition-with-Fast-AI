@@ -1,1 +1,1 @@
-# AI-based-App-Component-Recognition-with-Fast-AI
+# AI-based-App-Elements-Recognition-with-Fast-AI
